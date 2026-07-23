@@ -1,4 +1,4 @@
-# 🎓 Student Record Management System using CSV
+# Student Record Management System using CSV
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![CSV](https://img.shields.io/badge/CSV-Data%20Storage-success)
