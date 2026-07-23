@@ -40,12 +40,13 @@ It features a clean, menu-driven interface where you can easily **add, view, sea
 ---
 
 ## Project Structure
+```bash
 Student_CSV/
 │
 ├── Student_CSV (1).ipynb
 ├── students.csv
 └── README.md
-
+```
 
 ---
 
